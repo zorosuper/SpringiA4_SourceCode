@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_01/knight" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_01/knight" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-autoconfig" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_02/stereo-autoconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-javaconfig" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_02/stereo-javaconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_09/thymeleaf" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_09/thymeleaf" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_10/jdbc" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_10/jdbc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_11/hibernate4" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_11/hibernate4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_11/jpa-hibernate" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_11/jpa-hibernate" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_11/jpa-springdata" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_11/jpa-springdata" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

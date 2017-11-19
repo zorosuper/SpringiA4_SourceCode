@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="hibernate4_main" target="1.8" />
+      <module name="hibernate4_test" target="1.8" />
+      <module name="jdbc_main" target="1.8" />
+      <module name="jdbc_test" target="1.8" />
+      <module name="jpa-hibernate_main" target="1.8" />
+      <module name="jpa-hibernate_test" target="1.8" />
+      <module name="jpa-springdata_main" target="1.8" />
+      <module name="jpa-springdata_test" target="1.8" />
+      <module name="knight_main" target="1.8" />
+      <module name="knight_test" target="1.8" />
+      <module name="Spittr-Thymeleaf_main" target="1.8" />
+      <module name="Spittr-Thymeleaf_test" target="1.8" />
+      <module name="stereo-autoconfig_main" target="1.8" />
+      <module name="stereo-autoconfig_test" target="1.8" />
+      <module name="stereo-javaconfig_main" target="1.8" />
+      <module name="stereo-javaconfig_test" target="1.8" />
+      <module name="stereo-mixedconfig_main" target="1.8" />
+      <module name="stereo-mixedconfig_test" target="1.8" />
+      <module name="stereo-xmlconfig_main" target="1.8" />
+      <module name="stereo-xmlconfig_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
