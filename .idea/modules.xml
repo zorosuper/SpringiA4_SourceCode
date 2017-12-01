@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf_main.iml" group="Spittr-Thymeleaf" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf_test.iml" group="Spittr-Thymeleaf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr_main.iml" group="Spittr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr_test.iml" group="Spittr" />
       <module fileurl="file://$PROJECT_DIR$/SpringiA4_SourceCode.iml" filepath="$PROJECT_DIR$/SpringiA4_SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean.iml" filepath="$PROJECT_DIR$/.idea/modules/bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean_main.iml" group="bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean_test.iml" group="bean" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate4.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate4_main.iml" group="hibernate4" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate4_test.iml" group="hibernate4" />
@@ -18,9 +24,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-springdata.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-springdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-springdata_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-springdata_main.iml" group="jpa-springdata" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-springdata_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-springdata_test.iml" group="jpa-springdata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsp.iml" filepath="$PROJECT_DIR$/.idea/modules/jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/knight.iml" filepath="$PROJECT_DIR$/.idea/modules/knight.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/knight_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knight_main.iml" group="knight" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/knight_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knight_test.iml" group="knight" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profiles.iml" filepath="$PROJECT_DIR$/.idea/modules/profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profiles_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profiles_main.iml" group="profiles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profiles_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profiles_test.iml" group="profiles" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig_main.iml" group="stereo-autoconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig_test.iml" group="stereo-autoconfig" />

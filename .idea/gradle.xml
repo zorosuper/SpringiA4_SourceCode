@@ -24,7 +24,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-autoconfig" />
         <option name="gradleHome" value="E:/gradle-4.0.2" />
         <option name="modules">
@@ -34,7 +34,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-javaconfig" />
         <option name="gradleHome" value="E:/gradle-4.0.2" />
         <option name="modules">
@@ -44,7 +44,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
         <option name="gradleHome" value="E:/gradle-4.0.2" />
         <option name="modules">
@@ -54,12 +54,43 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig" />
         <option name="gradleHome" value="E:/gradle-4.0.2" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_03/profiles" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_03/profiles" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_05/Spittr" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_05/Spittr" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_06/jsp" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_06/jsp" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -110,6 +141,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Chapter_11/jpa-springdata" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/my/bean" />
+        <option name="gradleHome" value="E:/gradle-4.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/my/bean" />
           </set>
         </option>
       </GradleProjectSettings>
